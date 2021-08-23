@@ -6001,7 +6001,7 @@
     "fsevents" "1.1.2"
 
 "react-visjs-timeline@https://github.com/florianpirchner/react-visjs-timeline.git":
-  "resolved" "git+ssh://git@github.com/florianpirchner/react-visjs-timeline.git#71507b7748b558e1e0cb050e5e27c8533abe4418"
+  "resolved" "git+ssh://git@github.com/florianpirchner/react-visjs-timeline.git#04edba6791d9277f7bc0d0d9e1adacb5cd7c3e02"
   "version" "1.5.0"
   dependencies:
     "lodash" "^4.17.4"
