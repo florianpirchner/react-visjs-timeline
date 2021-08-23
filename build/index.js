@@ -10,7 +10,7 @@ var _visTimelineGraph2d = require('vis-timeline/dist/vis-timeline-graph2d.min');
 
 var _visTimelineGraph2d2 = _interopRequireDefault(_visTimelineGraph2d);
 
-require('vis-Timeline/dist/vis-timeline-graph2d.min.css');
+require('vis-timeline/dist/vis-timeline-graph2d.min.css');
 
 var _react = require('react');
 
